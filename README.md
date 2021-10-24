@@ -16,7 +16,8 @@ My Blog
 ![image](https://user-images.githubusercontent.com/91505994/138579721-787942fb-851c-400d-b5be-a1be6966f2ac.png)
 
 **Step 3**
-![image](https://user-images.githubusercontent.com/91505994/138579766-9c1ba073-178e-4e02-b63a-d3062590981b.png)
+![image](https://user-images.githubusercontent.com/91505994/138579800-35de4c51-d9b3-4a6e-8406-e30c563eb855.png)
+
 
 
 ## Reference
