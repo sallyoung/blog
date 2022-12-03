@@ -1,6 +1,6 @@
 ---
 title: First blog
-tags:Init
+tags: Init
 ---
 # Fist post after 2 years
 This is my first post after reveiving this account as a gift two years ago. It's hard to get the romance like this LOL.
